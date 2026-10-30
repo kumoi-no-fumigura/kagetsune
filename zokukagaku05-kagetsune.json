@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kagetsune",
  "yomi": "かげつねおうかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（他撰）",
+  "era": "明治22年（1889）7月奥書",
+  "author": "香川景恒（1823〜1866）",
+  "desc": "香川景樹の子景恒の家集。高橋古道が輯め、松波遊山が校した。奥書は、門人が亡き師の歌を写して送ったことを記す。"
+ },
  "editions": [
   {
    "pid": "993383",
